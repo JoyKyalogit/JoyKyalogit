@@ -1,4 +1,4 @@
-# Hi, I'm Joy! 
+# Hi, I'm Joy!  
 ### Data Analyst | Machine Learning & Business Intelligence
 
 I am a results-driven Data Analyst passionate about transforming raw data into strategic business insights. My expertise lies in building predictive models, optimizing database performance, and creating interactive visual stories.
