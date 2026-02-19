@@ -34,4 +34,4 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 
 
 ### Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/joy-kyalo-807847351/) | [Email](mailto:your-jlohreen@gmail.com) |[Medium](https://medium.com/@jlohreen)
+[LinkedIn](https://www.linkedin.com/in/joy-kyalo-807847351/) | [Email](jlohreen@gmail.com) |[Medium](https://medium.com/@jlohreen)
