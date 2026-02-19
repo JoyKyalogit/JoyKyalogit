@@ -23,13 +23,11 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 * **[Sales Performance & Decision Making](https://github.com/JoyKyalogit/Sales-Performance-Decision-Making-Using-Statistics)** *Applying statistical analysis to sales data to drive data-informed business strategies.*
 * **[Unsupervised Learning with Iris](https://github.com/JoyKyalogit/Unsupervised-Learning-with-the-Iris-Dataset.)** *Implementing clustering algorithms to find hidden patterns in high-dimensional biological data.*
 
+### Data Cleaning & SQL Engineering
+* **[Retail Data Cleaning (Python)](https://github.com/JoyKyalogit/Retail_data_cleaning_python)**: Automated preprocessing for retail datasets, focusing on outlier detection and data normalization.
+* **[Advanced SQL Data Cleaning](https://github.com/JoyKyalogit/sql-data-cleaning)**: Professional-grade PostgreSQL scripts for transforming messy raw data into structured tables using CTEs and window functions.
 
-#### 🛠 SQL & Data Engineering
-* **[Advanced SQL Query Collection](https://github.com/JoyKyalogit/postgres-queries)**: Complex PostgreSQL scripts focusing on data cleaning, CTEs, and window functions.
 
-#### Power BI Dashboards
-* **[Hospital Performance Analytics](https://github.com/JoyKyalogit/Hospital-Performance-dashboard)**: Visualizing patient wait times and departmental efficiency.
-* **[County Budget Insights](https://github.com/JoyKyalogit/County-Budget-Analysis-Dashboard)**: Interactive dashboard tracking public spending and allocation.
 
 
 
