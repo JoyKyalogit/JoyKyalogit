@@ -6,16 +6,15 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 ---
 
 ###  Tech Stack & Tools
+[<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=python)
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=sql)
+[<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=pandas)
+[<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=powerbi)
+[<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=deep-learning)
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Visuals** | ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
-
----
-
+###  AI & Modeling
+[<img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=machine-learning)
+[<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />](https://github.com/JoyKyalogit?tab=repositories&q=&topic=deep-learning)
 ### Portfolio Highlights
 
 #### Machine Learning
