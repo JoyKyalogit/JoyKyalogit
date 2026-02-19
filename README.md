@@ -18,9 +18,11 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 ### Portfolio Highlights
 
 #### Machine Learning
-* **[Telecom Customer Churn Prediction](https://github.com/JoyKyalogit/telecom-churn-prediction)**: Used Random Forest & Logistic Regression to predict customer attrition with high ROC-AUC scores.
-* **[Call Center Efficiency Forecasting](https://github.com/JoyKyalogit/call-center-efficiency)**: Time-series analysis of 135k+ records to predict handle times using Lag features and Regression.
-* **[Student Success Neural Network](https://github.com/JoyKyalogit/student-success-nn)**: A 3-layer ANN built in TensorFlow to classify student performance based on subject scores.
+* **[Telecom Customer Churn Prediction](https://github.com/JoyKyalogit/telecom-churn-prediction)** *Predicting customer attrition using Random Forest and Logistic Regression to identify high-risk segments.*
+* **[Call Center ML Analysis](https://github.com/JoyKyalogit/call-center-ml-analysis)** *Predicting call handle times using Time-Series Forecasting and Random Forest regression for workforce optimization.*
+* **[Sales Performance & Decision Making](https://github.com/JoyKyalogit/Sales-Performance-Decision-Making-Using-Statistics)** *Applying statistical analysis to sales data to drive data-informed business strategies.*
+* **[Unsupervised Learning with Iris](https://github.com/JoyKyalogit/Unsupervised-Learning-with-the-Iris-Dataset)** *Implementing clustering algorithms to find hidden patterns in high-dimensional biological data.*
+* **[Student Success Neural Network](https://github.com/JoyKyalogit/student-success-nn)** *A 3-layer Artificial Neural Network (ANN) built with TensorFlow/Keras to predict academic outcomes.*
 
 #### 🛠 SQL & Data Engineering
 * **[Advanced SQL Query Collection](https://github.com/JoyKyalogit/postgres-queries)**: Complex PostgreSQL scripts focusing on data cleaning, CTEs, and window functions.
