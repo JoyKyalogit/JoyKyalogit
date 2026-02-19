@@ -20,7 +20,7 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 #### Machine Learning
 * **[Telecom Customer Churn Prediction](https://github.com/JoyKyalogit/telecom-churn-prediction.)** *Predicting customer attrition using Random Forest and Logistic Regression to identify high-risk segments.*
 * **[Call Center ML Analysis](https://github.com/JoyKyalogit/call-center-ml-analysis.)** *Predicting call handle times using Time-Series Forecasting and Random Forest regression for workforce optimization.*
-* **[Sales Performance & Decision Making](https://github.com/JoyKyalogit/Sales-Performance-Decision-Making-Using-Statistics.)** *Applying statistical analysis to sales data to drive data-informed business strategies.*
+* **[Sales Performance & Decision Making](https://github.com/JoyKyalogit/Sales-Performance-Decision-Making-Using-Statistics)** *Applying statistical analysis to sales data to drive data-informed business strategies.*
 * **[Unsupervised Learning with Iris](https://github.com/JoyKyalogit/Unsupervised-Learning-with-the-Iris-Dataset.)** *Implementing clustering algorithms to find hidden patterns in high-dimensional biological data.*
 
 
