@@ -15,7 +15,7 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 
 ---
 
-### Power BI Dashboards (Business Intelligence)
+### 📊 Power BI Dashboards (Business Intelligence)
 * **[County Budget Analysis](https://github.com/JoyKyalogit/County-Budget-Analysis)**: Comprehensive visualization of public expenditure and budget allocation trends.
 * **[Hospital Performance Analysis](https://github.com/JoyKyalogit/Hospital-Performance-Analysis)**: Interactive dashboard tracking patient wait times, departmental efficiency, and resource utilization.
 * **[Crop Production Analysis](https://github.com/JoyKyalogit/Crop-Production-Analysis)**: Agricultural data insights focusing on yield trends and regional production efficiency.
