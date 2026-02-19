@@ -22,10 +22,10 @@ I am a results-driven Data Analyst passionate about transforming raw data into s
 
 
 ### Machine Learning
-* **[Telecom Customer Churn Prediction](https://github.com/JoyKyalogit/telecom-churn-prediction)**: Identifying at-risk customers using Random Forest and Logistic Regression.
-* **[Call Center ML Analysis](https://github.com/JoyKyalogit/call-center-ml-analysis)**: Forecasting handle times using Time-Series analysis and Regression.
+* **[Telecom Customer Churn Prediction](https://github.com/JoyKyalogit/telecom-churn-prediction.)**: Identifying at-risk customers using Random Forest and Logistic Regression.
+* **[Call Center ML Analysis](https://github.com/JoyKyalogit/call-center-ml-analysis.)**: Forecasting handle times using Time-Series analysis and Regression.
 * **[Sales Performance Statistics](https://github.com/JoyKyalogit/Sales-Performance-Decision-Making-Using-Statistics)**: Using statistical inference to drive business growth.
-* **[Unsupervised Learning (Iris)](https://github.com/JoyKyalogit/Unsupervised-Learning-with-the-Iris-Dataset)**: Finding patterns in data through clustering algorithms.
+* **[Unsupervised Learning (Iris)](https://github.com/JoyKyalogit/Unsupervised-Learning-with-the-Iris-Dataset.)**: Finding patterns in data through clustering algorithms.
 
 ###  SQL and python Data cleaning
 * **[Retail Data Cleaning (Python)](https://github.com/JoyKyalogit/Retail_data_cleaning_python)**: Automated preprocessing for messy retail datasets.
